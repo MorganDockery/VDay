@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+poem{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+reasons{
+    font-family: 'Courier New', Courier, monospace;
+}
